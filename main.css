@@ -1,0 +1,74 @@
+/*Only changes the style of the headline/subhead*/
+
+.ysabeau-sc-<uniquifier> {
+  font-family: "Ysabeau SC";
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+}
+
+h1{
+ font-family: "Ysabeau SC";
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+h2{
+  font-family: "Ysabeau SC";
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+/*paragraph style*/
+
+p{
+  font-family: "sans-serif;", serif;
+  max-width: 1000px;
+  padding: 1px;
+}
+
+/*body style*/
+div.text{
+margin: auto;
+max-width: 800px;
+background-color: #whitesmoke;
+padding: 40px;
+padding-top: 10px;
+}
+
+div.map{
+  padding-top: 5px;
+}
+
+
+/*img/subhead/byline/heading style*/
+
+div.container{
+font-family: "Ysabeau SC"; 
+margin: auto;
+max-width: 70%;
+background-color: #whitesmoke;
+padding: 40px;
+padding-top: 5px;
+padding-bottom: 5px ;
+}
+
+/*background style*/
+
+body{
+  background-color: lightgoldenrodyellow;}
+
+figcaption{
+  font-style: italic;
+  font-family: "sans-serif;", serif;
+}
+
+figure{max-width: 600px; margin: auto;}
+img{ 
+  margin-inline: auto;
+  padding-bottom: 2px;
+  max-width: 100%;}
